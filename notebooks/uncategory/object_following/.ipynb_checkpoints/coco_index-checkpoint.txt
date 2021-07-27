@@ -1,0 +1,81 @@
+id:0 background
+id:1 person
+id:2 bicycle
+id:3 car
+id:4 motorcycle
+id:5 airplane
+id:6 bus
+id:7 train
+id:8 truck
+id:9 boat
+id:10 traffic light
+id:11 fire hydrant
+id:13 stop sign
+id:14 parking meter
+id:15 bench
+id:16 bird
+id:17 cat
+id:18 dog
+id:19 horse
+id:20 sheep
+id:21 cow
+id:22 elephant
+id:23 bear
+id:24 zebra
+id:25 giraffe
+id:27 backpack
+id:28 umbrella
+id:31 handbag
+id:32 tie
+id:33 suitcase
+id:34 frisbee
+id:35 skis
+id:36 snowboard
+id:37 sports ball
+id:38 kite
+id:39 baseball bat
+id:40 baseball glove
+id:41 skateboard
+id:42 surfboard
+id:43 tennis racket
+id:44 bottle
+id:46 wine glass
+id:47 cup
+id:48 fork
+id:49 knife
+id:50 spoon
+id:51 bowl
+id:52 banana
+id:53 apple
+id:54 sandwich
+id:55 orange
+id:56 broccoli
+id:57 carrot
+id:58 hot dog
+id:59 pizza
+id:60 donut
+id:61 cake
+id:62 chair
+id:63 couch
+id:64 potted plant
+id:65 bed
+id:67 dining table
+id:70 toilet
+id:72 tv
+id:73 laptop
+id:74 mouse
+id:75 remote
+id:76 keyboard
+id:77 cell phone
+id:78 microwave
+id:79 oven
+id:80 toaster
+id:81 sink
+id:82 refrigerator
+id:84 book
+id:85 clock
+id:86 vase
+id:87 scissors
+id:88 teddy bear
+id:89 hair drier
+id:90 toothbrush

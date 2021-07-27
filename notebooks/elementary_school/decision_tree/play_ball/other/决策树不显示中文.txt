@@ -1,0 +1,3 @@
+sudo cp simhei.ttf /usr/share/fonts/truetype
+sudo fc-cache -fv
+rm -fr ~/.cache/matplotlib
